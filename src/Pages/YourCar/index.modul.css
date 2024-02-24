@@ -1,0 +1,181 @@
+.yourCar-body-conatainer {
+    margin-top: 8%;
+    text-align: center;
+    font-weight: bold;
+    font-size: 18px;
+}
+
+.yr-itemList-body {
+    display: flex;
+    flex-wrap: wrap;
+    margin-left: 20%;
+    margin-top: -152.6rem;
+}
+
+.yr-itemList-body :hover {
+    /* background-color: rgb(231, 228, 228); */
+    /* transform: scale(1.2); */
+
+}
+
+.yourCar-itemList-container {
+    /* border: 1px solid black; */
+    border: 1px solid #d3d5d6;
+    margin-left: 1%;
+    width: 31.5%;
+    background-color: #FFFFFF;
+    margin-top: 18px;
+    flex-wrap: wrap;
+    box-shadow: 0 2px 2px rgb(156, 152, 152)
+}
+
+.yourCar-itemList-container img {
+    width: 95%;
+    height: 180px;
+    border-radius: 10px;
+    margin-left: 8px;
+    margin-top: 10px;
+    padding: 0.5rem;
+}
+
+.yourCar-itemList-container img:hover {
+    /* transform: scale(1.01); */
+
+}
+
+.yourCar-rate-container {
+    border-top: 1px solid grey;
+    margin-left: 10%;
+    margin-right: 10%;
+}
+
+.yourCar-filterbar-container {
+    /* border: 1px solid black; */
+    padding-top: .80rem;
+    /* margin-top: 35px; */
+    margin-left: 8px;
+    width: 26rem;
+    padding-bottom: 50%;
+    /* background-color: #FFFFFF; */
+    /* box-shadow: 0 2px 2px rgb(156, 152, 152) */
+}
+
+.yourCar-filterbar-container h1 {
+    text-align: center;
+}
+
+.YourCar-btn-container {
+    background-color: #0067b8;
+    color: white;
+    padding: 2.5% 20% 2.5% 20%;
+    font-weight: 500;
+    border: none;
+    margin-left: 20%;
+    margin-bottom: 15px;
+    font-weight: bold;
+    box-shadow: 0 1px 1px rgb(60, 58, 58);
+}
+
+.YourCar-btn-container:hover {
+    background-color: rgb(182, 181, 181);
+    color: black;
+}
+
+.yourCar-itemList-title {
+    /* margin-left: 10%; */
+    font-size: 15px;
+    font-weight: 600;
+    margin-top: 10px;
+    color: #0067b8;
+}
+
+.yourCar-itemList-colotxt {
+    display: flex;
+    margin-left: 10%;
+
+}
+
+.yr-car-color {
+    /* margin-left: 10px; */
+    font-weight: bold;
+}
+
+.yourCar-itemList-price {
+    margin-left: 25%;
+    font-weight: bold;
+    font-size: 18px;
+    margin-top: -2px;
+}
+
+.yourCar-headingPage {
+    color: #0067b8;
+    font-size: 16px;
+}
+
+.yourCar-mainbody-conatainer {
+    background-color: #f1f3f8;
+    padding-bottom: 100%;
+
+}
+
+.left-text {
+    width: 14rem;
+}
+
+.rigth-text {
+    /* width: 18rem; */
+    /* border: 1px solid black; */
+    /* padding-right: 5rem; */
+
+
+}
+
+.yourCar-itemList-color {
+    font-weight: bold;
+    margin-left: 35px;
+}
+
+.iconStyle {
+    font-weight: bold;
+    margin-top: 1rem;
+    margin-left: 5rem;
+    font-size: 16px;
+    color: #0067b8;
+    cursor: pointer;
+}
+
+.your-car-likeBtn-container {
+    margin-left: 1rem;
+    margin-right: 1.5rem;
+    width: 10rem;
+}
+
+.your-car-likeBtn-container1 {
+    width: 25rem;
+}
+
+.car-filter-group {
+    border: 1px solid #d3d5d6;
+    margin-top: 2rem;
+    margin-left: 3rem;
+    margin-right: 1rem;
+    padding-left: 2rem;
+    padding-top: 1rem;
+    background-color: #FFFFFF;
+    padding-bottom: 2rem;
+    box-shadow: 0 2px 2px rgb(196, 191, 191)
+}
+
+.vehicle-heading {
+    margin-top: 1rem;
+    margin-left: 1rem;
+    font-size: 15px;
+    font-weight: bold;
+    color: #0067b8;
+}
+
+input[type=range] {
+    display: block;
+    margin-left: -1rem;
+    margin-bottom: .50rem;
+}

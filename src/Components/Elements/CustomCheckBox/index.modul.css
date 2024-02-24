@@ -1,0 +1,11 @@
+.checkBox-container {
+    height: 1.6rem;
+    width: 4rem;
+    border: 1px solid black;
+}
+
+.carType-text {
+    font-size: 16px;
+    margin-top: 1rem;
+    color: gray;
+}

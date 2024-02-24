@@ -1,0 +1,164 @@
+.body-main {
+    background-color: rgb(236, 231, 231);
+    height: 100vh;
+}
+
+.main-rides {
+    margin: 0rem;
+    margin-top: 8rem;
+    margin-left: 5rem;
+}
+
+.main-text {
+    color: rgb(8, 8, 8);
+    margin-left: 20rem;
+    margin-right: 20rem;
+    margin-top: 5rem;
+    /* border: 1px solid black; */
+
+}
+
+.img-car {
+    width: 5rem;
+    border-radius: 2rem;
+    margin: 1rem;
+}
+
+.icon-loc {
+    width: 1.3rem;
+    margin-left: 1rem;
+}
+
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.list-head {
+    display: flex;
+    /* margin-left: 10rem; */
+    border-bottom: 1px solid rgb(201, 183, 183);
+}
+
+.list-data {
+    margin-left: 4rem;
+font-weight: 500;
+}
+
+table td{
+    text-align: center;
+    padding: 0.3rem;
+}
+
+.list-car {
+    margin-left: 7rem;
+}
+
+.list-from {
+    margin-left: 8rem;
+}
+
+.list-km {
+    margin-left: 6rem;
+}
+
+.list-crn {
+    margin-left: 5rem;
+}
+
+.list-total {
+    margin-left: 4rem;
+}
+
+.number-km {
+    margin-left: 2rem;
+}
+
+.total-amt {
+    margin-left: 3rem;
+}
+
+.crn {
+    margin-left: 3rem;
+}
+
+.list-status {
+    margin-left: 5rem;
+}
+
+.item-frame {
+
+    margin-top: 1rem;
+    background-color: white;
+    /* border: 2px solid black; */
+    color: black;
+    /* font-weight: bolder; */
+    padding-left: 0.4rem;
+    margin-right: 5rem;
+    width: 100%;
+    height: 60px;
+    font-size: medium;
+    margin-left: 0.3rem;
+    border-radius: 0.2rem;
+    
+}
+
+.item-from {
+    margin-left: 2rem;
+}
+
+.status-item {
+    margin-left: 1rem;
+    /* background-color: green; */
+    padding: 0.8rem;
+    color: green;
+    border-radius: 0.1rem;
+}
+
+#car-name {
+    margin-left: 10px;
+    margin-right: 20px;
+}
+
+.cb-table {
+    margin: 0.1rem;
+}
+
+/* .table-item td{
+    
+    border: 1px solid black;
+} */
+.car-item {
+    width: 12rem;
+}
+
+.car-from {
+    width: 8rem;
+    padding-left: 0.3rem;
+}
+
+.car-phone {
+    width: 8rem;
+}
+
+.car-km {
+    margin-left: 10rem;
+    width: 7rem;
+}
+
+.car-total {
+    width: 5rem;
+}
+
+.not-status {
+    text-align: center;
+    margin: 0.3rem;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.trip-head {
+    font-family: 'Times New Roman', Times, serif;
+    margin-left: 16rem;
+    font-weight: bolder;
+}
+

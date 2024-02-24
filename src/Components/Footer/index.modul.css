@@ -1,0 +1,33 @@
+.info-container{
+    border: 1px solid black;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    background-color:#334155;
+}
+.email-conatainer{
+    margin-left: 24%;
+    padding-top: 3%;
+    text-align: center;
+
+}
+.email-conatainer1{
+    margin-left: 11%;
+    padding-top: 3%;
+    text-align: center;
+
+}
+
+.phone-conatainer{
+    margin-left: 11%;
+    padding-top: 3%;
+    text-align: center;
+}
+
+.bottomHeading{
+    margin-top: -2%;
+    border-top: 1px solid white;
+    background-color: #1E233B;
+    padding: 2%;
+   
+}
+

@@ -1,0 +1,104 @@
+    .card {
+        /* border: 1px solid black; */
+            width: 35rem;
+        /* margin-right: 79rem; */
+        margin-left: 5rem;
+        padding: 5rem;
+        /* height: 40rem; */
+        background-color: #ffffff;
+        box-shadow: 0 1px 1px  rgb(60, 58, 58);
+
+
+    }
+
+    .ac-emailInput {
+        width: 18rem;
+        height: 3rem;
+        padding-left: 1rem;
+        border: 1px solid grey;
+        /* margin-top: 1rem; */
+        border-radius: .3rem;
+        margin-left: .6rem;
+        margin-top: -1rem;
+        margin-bottom: 1rem;
+        border-radius: .3rem;
+
+    }
+
+    .ac-NameInput {
+        width: 18rem;
+        height: 3rem;
+        padding-left: 1rem;
+        border: 1px solid grey;
+        margin-top: -1rem;
+        margin-bottom: 1rem;
+        border-radius: .3rem;
+        margin-left: .6rem;
+
+    }
+
+    .ac-PhoneInput {
+        width: 18rem;
+        height: 3rem;
+        padding-left: 1rem;
+        border: 1px solid grey;
+        margin-top: -1rem;
+        margin-bottom: 1rem;
+        border-radius: .3rem;
+        /* margin-top: 1rem; */
+        border-radius: .3rem;
+
+    }
+
+    .ac-cityInput {
+        width: 18rem;
+        height: 3rem;
+        padding-left: 1rem;
+        border: 1px solid grey;
+        margin-top: -1rem;
+        margin-bottom: 1rem;
+        border-radius: .3rem;
+        /* margin-top: 1rem; */
+        border-radius: .3rem;
+        margin-left: 1.5rem;
+    }
+
+    .ac-account-Heading {
+        /* font-size: 10ox; */
+        margin-bottom: 1.5rem;
+        font-weight: bold;
+    }
+
+    .my-account-cencel-btn {
+        border: 1px solid rgb(159, 44, 44);
+        margin-right: 2rem;
+        height: 2.8rem;
+        width: 10rem;
+        background-color: #0067b8;
+        color: white;
+        border: none;
+        font-weight: bold;
+        box-shadow: 0 1px 1px rgb(60, 58, 58);
+        cursor: pointer;
+    }
+
+    .profile-line {
+        margin-top: -1px;
+        border: 1px solid rgb(147, 144, 144);
+        margin-left: 10px;
+    }
+
+    .ac-edit-heading {
+        margin-left: 22rem;
+        font-weight: bold;
+        text-decoration: none;
+        color: #0067b8;
+        background: fixed;
+        border: none;
+    }
+
+
+    .ac-btn-bd {
+        display: flex;
+        margin-top: 1.2rem;
+    }

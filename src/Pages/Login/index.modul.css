@@ -1,0 +1,113 @@
+
+.lg-body-container {
+    background-image: url('/public/Image/lgcar1.jpeg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    /* height: 100vh; */
+    /* border: 1px solid black; */
+    padding-bottom: 17.5rem;
+}
+.lg-container h3 {
+    margin-top: 8%;
+    margin-bottom: 5%;
+    margin-left: 13rem;
+    color: #0067b8;
+    font-weight: bold;
+}
+
+.lg-Input-container {
+    /* margin-top: -1px; */
+    padding: 9px;
+    width: 100%;
+    background-color: rgba(0, 0, 0, .025);
+    border: 1px solid #ded8d8;
+    border-radius: 3px;
+    outline: none;
+}
+
+.lg-errormsg {
+    color: red;
+    margin-left: 8px;
+    font-size: 12px;
+}
+
+.lg-btn-container {
+    margin-top: 2px;
+    padding: 9px;
+    width: 60%;
+    margin-left: 7.5rem;
+    background-color: #0067b8;
+    border: none;
+    color: aliceblue;
+    font-weight: 600;
+    outline: none;
+}
+.lg-errormsg2 {
+    color: red;
+    margin-left: 9rem;
+    /* font-size: 12px; */
+}
+.lg-creactAcMsg{
+    margin-left: 40px;
+}
+
+
+.lg-container {
+    margin-top: 11%;
+    margin-left: 36%;
+    margin-right: 36%;
+    padding: 0.5px 2% 2% 2%;
+    padding-top: -1%;
+    background-color: white;
+    border-radius: 6px;
+    padding-bottom: 20px;
+}
+
+.lg-container h3 {
+    font-weight: 600;
+    font-size: 20px;
+    padding-bottom: 10px;
+    color: #0067b8;
+}
+
+.nameInput-container {
+    padding: 8px;
+    width: 100%;
+    /* margin-bottom: 10px; */
+    background-color: rgba(0, 0, 0, .025);
+    border: solid 2px #eeeeee;
+    /* border: none; */
+    border-radius: 6px;
+    outline: none;
+}
+
+.emailInput-container {
+    /* margin-top: 10px; */
+    padding: 8px;
+    width: 100%;
+    background-color: rgba(0, 0, 0, .025);
+    border: solid 2px #eeeeee;
+    /* border: none; */
+    border-radius: 6px;
+    outline: none;
+}
+
+.lgbtn-container {
+    margin-top: 15px;
+    padding: 7px;
+    width: 100%;
+    margin-bottom: 2px;
+    background-color: #0067b8;
+    /* border: solid 2px #eeeeee; */
+    border: none;
+    border-radius: 6px;
+    color: aliceblue;
+    font-weight: 600;
+    outline: none;
+}
+.lg-forgot {
+    text-align: center;
+    /* font-weight: 600; */
+    color: #0067b8;
+    cursor: pointer;
+}

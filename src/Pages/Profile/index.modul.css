@@ -1,0 +1,225 @@
+.main-bd {
+    margin-top: 11.31rem;
+    display: flex;
+}
+
+.my-Dashboard {
+    /* border: 1px solid black; */
+    height: 55.8rem;
+    width: 25rem;
+    background-color: #0067b8;
+    color: aliceblue;
+    box-shadow: 1px 1px rgb(60, 58, 58);
+    cursor: pointer;
+}
+
+.my-Dashboard-heading {
+    margin-top: 5rem;
+    margin-left: 1.2rem;
+    font-weight: bold;
+}
+
+.profile-heading {
+    height: 3rem;
+    margin-left: 1.2rem;
+    padding-left: 1rem;
+    padding-top: .45rem;
+
+}
+.active-heading{
+    background-color: black;
+    width: 15rem;
+}
+
+.profile-heading:hover {
+    background-color: black;
+    width: 15rem;
+}
+
+.dashBoard-bd {
+    display: flex;
+}
+
+.dashBoard-bd i {
+    font-size: 24px;
+    margin-left: 2rem;
+}
+
+.my-Account-bd {
+    display: flex;
+    margin-left: 6rem;
+}
+
+.pr-Updare-Password {
+    display: flex;
+    margin-left: 6rem;
+}
+
+.pr-your-trip {
+    display: flex;
+    margin-left: 6rem;
+}
+
+hr {
+    margin-left: 1rem;
+    margin-right: 1rem;
+}
+
+.my-Account-Details {
+    background-color: #f1f3f8;
+    width: 120rem;
+    /* border: 1px solid black; */
+}
+
+.my-Account-heading {
+    margin-left: 2rem;
+    margin-top: 4rem;
+    font-size: 22px;
+    font-weight: bold;
+}
+
+.card {
+    /* border: 1px solid black; */
+    width: 40rem;
+    /* margin-right: 79rem; */
+    margin-left: 16rem;
+    padding: 5rem;
+    height: 35rem;
+    background-color: #ffffff;
+    /* box-shadow: 0 1px 1px rgb(60, 58, 58); */
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+
+
+}
+
+.ac-emailInput {
+    width: 24rem;
+    height: 3rem;
+    padding-left: 1rem;
+    border: 1px solid grey;
+    /* margin-top: 1rem; */
+    border-radius: .3rem;
+    margin-left: .6rem;
+    margin-top: -1rem;
+    margin-bottom: 1rem;
+    border-radius: .3rem;
+
+}
+
+.ac-NameInput {
+    width: 24rem;
+    height: 3rem;
+    padding-left: 1rem;
+    border: 1px solid grey;
+    margin-top: -1rem;
+    margin-bottom: 1rem;
+    border-radius: .3rem;
+    margin-left: .6rem;
+
+}
+
+.ac-PhoneInput {
+    width: 24rem;
+    height: 3rem;
+    padding-left: 1rem;
+    border: 1px solid grey;
+    margin-top: -1rem;
+    margin-bottom: 1rem;
+    border-radius: .3rem;
+    /* margin-top: 1rem; */
+    border-radius: .3rem;
+
+}
+
+.ac-cityInput {
+    width: 24rem;
+    height: 3rem;
+    padding-left: 1rem;
+    border: 1px solid grey;
+    margin-top: -1rem;
+    margin-bottom: 1rem;
+    border-radius: .3rem;
+    /* margin-top: 1rem; */
+    border-radius: .3rem;
+    margin-left: 1.5rem;
+}
+
+.ac-account-Heading {
+    /* font-size: 10ox; */
+    margin-bottom: 1.5rem;
+    font-weight: bold;
+}
+
+.my-account-cencel-btn {
+    border: 1px solid rgb(159, 44, 44);
+    margin-right: 2rem;
+    height: 2.8rem;
+    width: 10rem;
+    background-color: #0067b8;
+    color: white;
+    border: none;
+    font-weight: bold;
+    box-shadow: 0 1px 1px rgb(60, 58, 58);
+    cursor: pointer;
+}
+
+.profile-line {
+    margin-top: -50px;
+    border: 1px solid rgb(147, 144, 144);
+    border-bottom: none;
+    border-left: none;
+    border-right: none;
+    width: 30rem;
+}
+
+.ac-edit-heading {
+    margin-left: 20rem;
+    font-weight: bold;
+    text-decoration: none;
+    color: green;
+    background: fixed;
+    border: none;
+}
+
+.ac-btn-bd {
+    display: flex;
+    margin-top: 1.2rem;
+}
+
+.ac-social-Link-card {
+    margin-left: -60rem;
+    height: 35rem;
+    width: 40rem;
+    padding: 5rem;
+    background-color: #ffffff;
+    /* box-shadow: 0 1px 1px rgb(60, 58, 58); */
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    margin-top: 8rem;
+}
+
+.ac-google-img {
+    height: 2.5rem;
+}
+
+.ac-facebook-img {
+    height: 3rem;
+    margin-left: 2rem;
+    cursor: pointer;
+}
+
+.ac-icon-bd {
+    margin-left: 9rem;
+    margin-top: 5rem;
+    cursor: pointer;
+}
+
+.ac-linkedin-img {
+    height: 4rem;
+    margin-left: 2rem;
+    cursor: pointer;
+}
+
+.ac-body {
+    background-color: red;
+    border: 1px solid black;
+}
