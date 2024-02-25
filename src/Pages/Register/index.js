@@ -128,14 +128,16 @@ function Register() {
             //     headers: { 'Content-Type': "application/json" },
             //     body: JSON.stringify(userRegterData), // store the data in database
             // });
-            const fetchData = await AuthApi.UseRegister(userRegterData);
+            const fetchData = await AuthApi?.UseRegister(userRegterData);
             console.log("fethdata ppp=== >", fetchData)
             setLoading(false)
-            if (fetchData.status === 409 || 401) {
+            if (fetchData?.status === 409 || 401) {
                 setUserAlreadyReg("This Account Already Registered")
+            } else {
+                setUserAlreadyReg("server error")
             }
 
-            if (fetchData.status === 200) {
+            if (fetchData?.status === 200) {
                 setName('')
                 setEmail('')
                 setPhoneNo('')
@@ -143,7 +145,6 @@ function Register() {
                 setPass('')
                 setConPass('')
                 navigate('/login')
-
             }
 
         }
